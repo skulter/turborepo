@@ -1,0 +1,5 @@
+{
+  "name": "custom",
+  "id": "panda-theme-custom",
+  "css": " [data-panda-theme=custom] {\n    --font-sizes-xs: 0.75rem;\n    --font-sizes-sm: 0.875rem;\n    --font-sizes-md: 1rem;\n    --font-sizes-lg: 1.125rem;\n    --font-sizes-xl: 1.25rem;\n    --font-weights-normal: 400;\n    --font-weights-medium: 500;\n    --font-weights-bold: 700;\n    --space-1: 0.25rem;\n    --space-2: 0.5rem;\n    --space-3: 0.75rem;\n    --space-4: 1rem;\n    --space-5: 1.25rem;\n    --space-6: 1.5rem;\n    --colors-background: var(--colors-green-50);\n    --colors-text: var(--colors-green-800);\n    --colors-primary: var(--colors-green-500);\n    --colors-secondary: var(--colors-green-600);\n    --font-sizes-body: var(--font-sizes-md);\n    --font-sizes-heading: var(--font-sizes-xl);\n    --font-weights-body: var(--font-weights-normal);\n    --font-weights-heading: var(--font-weights-bold);\n    --space-small: var(--space-2);\n    --space-medium: var(--space-4);\n    --space-large: var(--space-6)\n}"
+}
