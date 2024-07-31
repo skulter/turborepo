@@ -2,6 +2,7 @@ import { defineConfig } from "@pandacss/dev";
 import customPreset from "./src/theme/customPreset";
 
 export default defineConfig({
+
   jsxFramework: "react",
   // Whether to use css reset
   preflight: true,
